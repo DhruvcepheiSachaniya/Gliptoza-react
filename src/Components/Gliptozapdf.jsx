@@ -18,7 +18,7 @@
 import React from "react";
 
 const PdfViewer2 = () => {
-  const pdfPath = "/assets/Gliptoza_Pen_How_To_Use_(1).pdf"; // Correct way to reference a file in `public/`
+  const pdfPath = "/assets/GLIPTOZA PATIENT SUPPORT.pdf"; // Correct way to reference a file in `public/`
 
   return (
     <div style={{ margin: 0, padding: 0, height: "100vh", overflow: "hidden", display: "flex", flexDirection: "column" }}>
